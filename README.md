@@ -1,4 +1,4 @@
-# CrossRoad_game
+# CrossRoad Game
 Applying the knowledge acquired on the Alura platform
 
 My second game, created using Javascript:
